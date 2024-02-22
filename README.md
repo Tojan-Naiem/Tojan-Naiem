@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Solving Problems & Flutter
+- 🌱 I’m currently learning Mobile application using Flutter
+- 💬 Ask me about Java and Dart
+
 
 <!--
 **Tojan-Naiem/Tojan-Naiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
