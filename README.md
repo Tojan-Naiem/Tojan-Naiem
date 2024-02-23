@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solving problems and Flutter**
 
-- 💬 Ask me about **Java , Dart ,OOP**
+- 💬 Ask me about **Java,JavaFX,Swing,Dart,OOP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
