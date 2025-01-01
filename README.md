@@ -5,11 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
 
 
-- 🔭 I'm a third year student at PTUK
-
-- 🌱 I’m currently learning Web development 
-
-- 💬 Ask me about Java , Swing , Flutter 
+-  I'm a third year student at PTUK
+-  I’m currently learning Web development 
+-  Ask me about Java , Swing , Flutter 
 
 
 <h3 align="left">Languages and Tools:</h3>
