@@ -6,8 +6,8 @@
 
 
 -  I'm a 3rd year computer science student at PTUK
--  I’m currently learning Web development 
--  Ask me about Java , Swing , Flutter 
+-  I’m currently learning Front-end , c#
+-  Ask me about Java , Swing , Flutter   
 
 
 <h3 align="left">Languages and Tools:</h3>
