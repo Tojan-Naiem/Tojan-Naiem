@@ -6,7 +6,7 @@
 
 
 -  I'm a junior computer science student at PTUK
--  I’m currently learning Front-end , c#
+-  I’m currently learning Front-end 
 -  Ask me about Java , Swing , Flutter   
 
 
