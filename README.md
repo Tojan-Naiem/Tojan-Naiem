@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+# 💫 About Me:
 - 🖥 I'm a junior computer science student at PTUK
 - 💼 I’m currently learning Front-end    
 
@@ -42,6 +42,7 @@
 
 
 
+# 📊 GitHub Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tojan-Naiem&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
