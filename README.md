@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
 
 # 💫 About Me:
-- 🖥 I'm a junior computer science student at PTUK
+- 🖥 I'm a Junior Computer Science student at PTUK
 - 💼 I’m currently learning Front-end    
 
 
