@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tojan Naiem</h1>
+<h1 align="center">Hi 👋, I'm Tojan Naeem</h1>
 <h3 align="center">Computer Science Student👩‍💻🖥️ </h3>
 <hr>
 
