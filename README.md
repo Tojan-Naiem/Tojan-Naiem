@@ -51,6 +51,10 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tojan-Naiem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
+<p align="center">
+  <img src="https://octodex.github.com/images/nuxtocat.gif" alt="Nuxtocat" width="400"/>
+</p>
+
 <!--
 **Tojan-Naiem/Tojan-Naiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
