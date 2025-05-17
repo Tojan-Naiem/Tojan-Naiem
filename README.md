@@ -5,7 +5,7 @@
 
 <p align="left" style="font-size: 1em;"><b>🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲</b>​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</p>
 
-<p> 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​⦂</p>
+<p> 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="22">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" height="22">
 </div>
+
 # 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tojan-Naiem&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
