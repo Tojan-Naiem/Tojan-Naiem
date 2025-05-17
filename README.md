@@ -1,9 +1,9 @@
 [<img src="https://raw.githubusercontent.com/Tojan/Tojan-Naiem/master/intro.gif" alt="👋 Hi there! I'm (Tojan(111|Naiem)|https://Tojan-Naiem)" title="👋 Hi there! I'm (Tojan(111|nd Li)|https://Tojan-Naiem)"/>]()
 
 
-<p align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Nuxtocat" width="400"/>
-</p>
+<div align="center">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="400" alt="NUX Octocat"/>
+</div>
 <h1 align="center">Hi 👋, I'm Tojan Naeem</h1>
 <h3 align="center">Computer Science Student👩‍💻🖥️ </h3>
 <hr>
