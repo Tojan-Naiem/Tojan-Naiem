@@ -20,11 +20,11 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" height="22">
 </div>
 
-# 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
+<!--  # 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tojan-Naiem&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojan-naiem&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tojan-naiem" />
-
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
 </p>
