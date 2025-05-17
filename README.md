@@ -2,9 +2,9 @@
 <p align="center" style="font-size: 1em; background: #f0f8f0; padding: 15px; border-radius: 10px; border: 2px solid #2e8b57;">
   🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://www.pinterest.co0/" width="100%" height="300px">
-</p>
+</p>-->
 
 <h4 align="left" style="font-size: 1em;"><b>🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲</b>​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</h4>
 
