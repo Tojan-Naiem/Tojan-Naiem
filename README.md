@@ -4,14 +4,6 @@
 </p>
 
 <p align="left" style="font-size: 1em;">🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
-</p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
- 
 
 # 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​⦂
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -27,6 +19,15 @@
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" height="22">
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
+</p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
+ 
+
 
 # 📊 GitHub Stats:
 
