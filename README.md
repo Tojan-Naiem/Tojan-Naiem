@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/Tojan/Tojan-Naiem/master/intro.gif" alt="👋 Hi there! I'm (Tojan(111|Naiem)|https://Tojan-Naiem)" title="👋 Hi there! I'm (Tojan(111|nd Li)|https://Tojan-Naiem)"/>]()
 
-<h1 align="left" style="font-size: 2em;">Hi, I'm Tojan Naiem 🌳</h1>
-<h3 align="left" style="font-size: 2em;">Computer Science Student🖥️ </h3>
+<h1 align="left" style="font-size: 1em;">Hi, I'm Tojan Naeem 🌳</h1>
+<h3 align="left" style="font-size: 1em;">Computer Science Student🖥️ </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
 </p>
