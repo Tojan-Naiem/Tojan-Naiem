@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Tojan/Tojan-Naiem/master/intro.gif" alt="👋 Hi there! I'm (Tojan(111|Naiem)|https://Tojan-Naiem)" title="👋 Hi there! I'm (Tojan(111|nd Li)|https://Tojan-Naiem)"/>]()
 <p align="center">
-  <img src="https://media.giphy.com/media/VG7YdWLQ3YZPfzEsf0/giphy.gif" width="100%" style="border-radius: 10px;">
+<img src="https://media.giphy.com/media/ZaQx1jrgJZ0jzvKMBU/giphy.gif" width="100%">
 </p>
 
 <p align="left" style="font-size: 1em;">🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</p>
