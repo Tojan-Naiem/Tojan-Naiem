@@ -5,7 +5,7 @@
 
 <p align="left" style="font-size: 1em;">🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</p>
 
-# 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​⦂
+<p> 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​⦂</p>
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="22">
@@ -25,7 +25,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
  
 
 
