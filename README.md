@@ -1,6 +1,9 @@
 [<img src="https://raw.githubusercontent.com/Tojan/Tojan-Naiem/master/intro.gif" alt="👋 Hi there! I'm (Tojan(111|Naiem)|https://Tojan-Naiem)" title="👋 Hi there! I'm (Tojan(111|nd Li)|https://Tojan-Naiem)"/>]()
+<p align="center" style="font-size: 1em; background: #f0f8f0; padding: 15px; border-radius: 10px; border: 2px solid #2e8b57;">
+  🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿🌱🌴🌳🌲🌿
+</p>
 <p align="center">
-<img src="https://www.pinterest.com/pin/243264817367236810/" width="100%" height="300px">
+<img src="https://www.pinterest.co0/" width="100%" height="300px">
 </p>
 
 <h4 align="left" style="font-size: 1em;"><b>🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲</b>​ | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</h4>
