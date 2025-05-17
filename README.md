@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/NUX_Octodex.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
 </p>
 <h1 align="center">Hi 👋, I'm Tojan Naeem</h1>
 <h3 align="center">Computer Science Student👩‍💻🖥️ </h3>
