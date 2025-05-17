@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Tojan/Tojan-Naiem/master/intro.gif" alt="👋 Hi there! I'm (Tojan(111|Naiem)|https://Tojan-Naiem)" title="👋 Hi there! I'm (Tojan(111|nd Li)|https://Tojan-Naiem)"/>]()
-<p align="center">
-  <img src="https://svgshare.com/i/z5X.svg" width="80%" style="opacity: 0.7;">
+<p align="center" style="color: #81c784; font-weight: light;">
+  ~ ~ ~ 𓆸 ~ ~ ~ 𓆹 ~ ~ ~ 𓆸 ~ ~ ~
 </p>
 <!-- <p align="center">
 <img src="https://www.pinterest.co0/" width="100%" height="300px">
