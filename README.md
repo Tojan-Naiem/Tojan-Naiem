@@ -13,7 +13,9 @@
 # 💫 About Me:
 - 🖥 I'm a Junior Computer Science student at PTUK
 - 💼 I’m currently learning Front-end    
-
+<div align="center">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="400" alt="NUX Octocat"/>
+</div>
 
 # 💻 Tech Stack:
 
