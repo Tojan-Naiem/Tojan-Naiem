@@ -3,6 +3,9 @@
 <!-- <p align="center">
 <img src="https://www.pinterest.co0/" width="100%" height="300px">
 </p>-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
+</p>
 
 <h2 align="left" style="font-size: 1em;">🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲 | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</h2>
 
@@ -26,10 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tojan-Naiem&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojan-naiem&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tojan-naiem" />
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tojan-Naiem/Tojan-Naiem/main/NUX_Octodex.gif" width="300"/>
-</p>
-
+د
 
 
  
