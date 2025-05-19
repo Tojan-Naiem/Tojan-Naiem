@@ -6,7 +6,7 @@
 
 <h2 align="left" style="font-size: 1em;">🇭​​🇮​, ​🇮​❜​🇲​ ​🇹​​🇴​​🇯​​🇦​​🇳​ ​🇳​​🇦​​🇮​​🇪​​🇲 | ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇹​​🇺​​🇩​​🇪​​🇳​​🇹 🌲</h2>
 
-<p> 💻 ​🇹​​🇪​​🇨​​🇭​ ​🇸​​🇹​​🇦​​🇨​​🇰​:</p>
+
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="22">
