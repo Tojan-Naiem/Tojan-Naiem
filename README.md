@@ -1,10 +1,3 @@
-# 🌸 Hey there, I'm Tojan 🌸  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tojan-Naiem&color=ff69b4)
-![GitHub Followers](https://img.shields.io/github/followers/Tojan-Naiem?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Tojan-Naiem?affiliations=OWNER&style=social)
-![GitHub PRs](https://img.shields.io/badge/PRs-Open%20%2F%20Closed-blueviolet)
-![GitHub Issues](https://img.shields.io/badge/Issues-Open%20%2F%20Closed-green)
 
 
 
