@@ -1,10 +1,11 @@
-## 🌸 Hey there, I'm Tojan 🌸
+# 🌸 Hey there, I'm Tojan 🌸  
 
-![Profile views](https://komarev.com/ghpvc/?username=Tojan-Naiem&label=Profile%20views&color=ff69b4&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Tojan-Naiem?label=Followers&style=flat-square&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/Tojan-Naiem?affiliations=OWNER&style=flat-square&color=yellow)
-![GitHub PRs](https://img.shields.io/badge/PRs-Check%20my%20activity-purple?style=flat-square)
-![GitHub Issues](https://img.shields.io/badge/Issues-Open%20Source%20Contributions-orange?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Tojan-Naiem&color=ff69b4)
+![GitHub Followers](https://img.shields.io/github/followers/Tojan-Naiem?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Tojan-Naiem?affiliations=OWNER&style=social)
+![GitHub PRs](https://img.shields.io/badge/PRs-Open%20%2F%20Closed-blueviolet)
+![GitHub Issues](https://img.shields.io/badge/Issues-Open%20%2F%20Closed-green)
+
 
 
 
