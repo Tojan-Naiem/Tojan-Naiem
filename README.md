@@ -3,9 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Tojan-Naiem&label=Profile%20views&color=ff69b4&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Tojan-Naiem?label=Followers&style=flat-square&color=blue)
 ![GitHub User's stars](https://img.shields.io/github/stars/Tojan-Naiem?affiliations=OWNER&style=flat-square&color=yellow)
-![GitHub Contributions](https://badges.pufler.dev/commits/monthly/Tojan-Naiem?color=brightgreen)
-![GitHub PRs](https://img.shields.io/github/issues-pr-closed-raw/Tojan-Naiem?color=purple)
-![GitHub Issues](https://img.shields.io/github/issues-closed-raw/Tojan-Naiem?color=orange)
+![GitHub PRs](https://img.shields.io/badge/PRs-Check%20my%20activity-purple?style=flat-square)
+![GitHub Issues](https://img.shields.io/badge/Issues-Open%20Source%20Contributions-orange?style=flat-square)
+
 
 
 
